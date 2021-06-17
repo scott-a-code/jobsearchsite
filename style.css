@@ -1,0 +1,63 @@
+body{
+    box-sizing: border-box;
+}
+/* div.background {
+    background-image: url("https://economistjobs.com/images/general/headers/job-search.jpg");
+    background-repeat: round;
+    opacity: 0.15;
+    object-position: bottom;
+    /* position: absolute; */
+    /* object-position:100vw; */
+
+/* .background-img{
+    opacity: 0.15;
+} */
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #float-right{
+      float: right;
+  }
+
+  @media only screen and (max-width:500px) {
+    [class="background-img"] {
+        width: 100vw;
+    }
+
+    h1{
+        font-size:medium;
+    }
+}
+
+    
